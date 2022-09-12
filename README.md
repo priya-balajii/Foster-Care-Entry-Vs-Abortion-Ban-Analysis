@@ -23,7 +23,7 @@ Comprehensive historical statistics on the incidence of pregnancy, birth and abo
 **Foster Care & Adoptions** : (https://datacenter.kidscount.org/)
 Number of US children, broken down by age groups, who have entered foster care and/or been adopted by year and state in 2000-2020.
 
-**Political Idelogy** :
+**Political Idealogy** :
 The data is split into three groups - Republican, Split and Democrat
 
 **Restrictiveness of abortion ban** : (https://www.washingtonpost.com/politics/2022/06/24/abortion-state-laws-criminalization-roe/)
@@ -64,4 +64,5 @@ As the abortion laws become more restrictive…
 
  * Rate of adoptions decreases
 
+Part of correlation one women cohort 2022 Capstone Project : Team 27 : Priya Balaji, Cassie Berns, Chevaunne Edwards,  Sasha Gryshchenko, Paula Wu, Ange Yang
 
