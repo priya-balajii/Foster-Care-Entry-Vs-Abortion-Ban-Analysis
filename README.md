@@ -31,22 +31,37 @@ grouping states based on severity of adoption ban 1-5 scale, 1 - banned or mostl
 
 # Data preparation 
  * All the datasets have been cleaned and merged based on state codes and year
+ * Created KPI's using multiple datasets - Fostercare entry rate for infants (foster care entry /birthtotal)/1000 and Adoption rate (adoption number/birthtotal)/1000 for infants <1 
  * Missing data that were not recorded for all the states are dropped
  * Missing data for certain years are imputed based on "MODE" using SimpleImputer Function
 
 # Abortion Data Analysis
-![Image](img/abortion_rate.PNG)
+![Image](img/abortion_rate.png)
+**There is a downward trend in the abortion rates in the US since 1981**
+![Image](img/compare.png)
 
-# Coin Comparison Screen:
-- This allows you to select two cryptocurrencies to compare against each other, for all the metrics listed in the overview view.
-- Select Coin 1 and Coin 2, Compare the price trends and volume
-- Used multiple line charts to compare price and bar chart to compare volume
-- Dynamically select open price, close price, high price and low price
-- Date and Time Filters allows you to select a specific time frame for analysis
-![Image](img/CoinCompare.PNG)
+# Foster Care Entry and Adoption Data Analysis
+![Image](img/foster_care.png)
+ * **There is a huge difference between the number of infants entering faster care and number of infants getting adopted**
+![Image](img/foster_political.png)
+ * **W**
 
-# Scenario Builder Screen
-- This view allows you to choose a purchase date and volume and run scenarios for what that purchase would be worth in today's dollars, based on the value of the coin selected.
-- Analyze the current price, profit/loss of your investments 
-![Image](img/ScenarioBuilder.PNG)
+# Bringing it all together
+![Image](img/compare2.png)
+![Image](img/restrictiveness.png)
+![Image](img/corr.png)
+
+# Results & Findings
+
+**How do restrictive abortion laws impact rates of abortion, foster
+care entry, and adoption?**
+
+As the abortion laws become more restrictive…
+
+ * Rate of (legal) abortions decreases
+
+ * Rate at which infants enter foster care increases
+
+ * Rate of adoptions decreases
+
 
